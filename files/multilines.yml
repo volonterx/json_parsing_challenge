@@ -1,0 +1,8 @@
+singleline: >  
+  this is a multi-line string it
+  spans more than one
+  line
+multiline: |
+  this is a multi-line string it
+  spans more than one
+  line

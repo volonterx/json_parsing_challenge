@@ -1,0 +1,8 @@
+HallLight: On
+KitchenLight: Off
+LivingRoomLight: On
+DoorIsLocked: True
+BackDoorIsLocked: False
+Heater: Off
+TemperatureUnit: "C"
+Temperature: "19"
